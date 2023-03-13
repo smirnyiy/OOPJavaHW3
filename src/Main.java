@@ -1,6 +1,6 @@
-import Animals.*;
-import Human.Doctor;
-import Veterinary.VetClinic;
+import animals.*;
+import human.Doctor;
+import veterinary.VetClinic;
 
 import java.util.ArrayList;
 import java.util.List;
